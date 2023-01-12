@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\bin\Debug\netcoreapp3.1\zumkuler.exe
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\bin\Debug\netcoreapp3.1\zumkuler.deps.json
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\bin\Debug\netcoreapp3.1\zumkuler.runtimeconfig.json
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\bin\Debug\netcoreapp3.1\zumkuler.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\bin\Debug\netcoreapp3.1\zumkuler.dll
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\bin\Debug\netcoreapp3.1\zumkuler.pdb
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.AssemblyInfo.cs
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.dll
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.pdb
+C:\Users\SONY\Desktop\1-11-2022\1-12-2022\Pratice delegate\zumkuler\obj\Debug\netcoreapp3.1\zumkuler.genruntimeconfig.cache
